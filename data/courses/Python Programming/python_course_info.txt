@@ -1,0 +1,13 @@
+Python Programming - Course Information
+
+Instructor: Eng. Omar Hassan
+Duration: 6 weeks
+Grading: Weekly labs 50%, Final exam 50%.
+
+Required software: Python 3.10 or newer and Visual Studio Code.
+
+Lab rules: Each weekly lab must be submitted on the course portal before Thursday at 11:59 PM.
+Code must follow PEP 8, the official Python style guide (4 spaces for indentation, snake_case for
+function and variable names, lines no longer than 79 characters).
+
+Virtual environments: create one with "python -m venv .venv" and install packages with pip.

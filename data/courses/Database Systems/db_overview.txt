@@ -1,0 +1,9 @@
+Database Systems - Course Overview
+
+Instructor: Dr. Mona Khaled
+Duration: 12 weeks
+Database engine used in labs: PostgreSQL 16.
+
+Attendance policy: students must attend at least 75% of lectures to be allowed to sit the final exam.
+
+Recommended textbook: "Database System Concepts" by Silberschatz, Korth and Sudarshan.

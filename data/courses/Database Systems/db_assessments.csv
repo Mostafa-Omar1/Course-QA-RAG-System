@@ -1,0 +1,5 @@
+assessment,weight,due_week,notes
+Quiz 1,10%,3,Covers relational model and basic SQL
+Midterm exam,30%,6,"Closed book; covers SQL, joins and normalization"
+Database design project,25%,10,Design an ER diagram and normalized schema for a library system
+Final exam,35%,12,"Comprehensive; includes transactions, ACID and indexing"

@@ -1,0 +1,19 @@
+Machine Learning Fundamentals - Course Syllabus
+
+Instructor: Dr. Sara Ahmed
+Duration: 8 weeks
+Grading: Assignments 40%, Midterm exam 25%, Final project 35%.
+
+Week 1: Introduction to machine learning and types of learning.
+Week 2: Linear regression and gradient descent.
+Week 3: Logistic regression and classification metrics.
+Week 4: Overfitting, regularization and cross-validation.
+Week 5: Decision trees and random forests.
+Week 6: K-means clustering and PCA.
+Week 7: Introduction to neural networks.
+Week 8: Final project presentations.
+
+Late submission policy: assignments submitted late lose 10% per day, up to a maximum of 3 days.
+After 3 days the assignment receives zero.
+
+Office hours: Sundays and Tuesdays from 2 PM to 4 PM.

@@ -1,0 +1,7 @@
+week,topic,lab_assignment
+1,"Variables, data types and input/output",Build a simple calculator
+2,Conditionals and loops,FizzBuzz and number guessing game
+3,"Lists, tuples, dictionaries and sets",Student grade book
+4,"Functions, *args and **kwargs",Text statistics utility
+5,File handling and exceptions,CSV contact manager
+6,Object-oriented programming: classes and inheritance,Bank account system
