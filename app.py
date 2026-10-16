@@ -3,6 +3,7 @@
 Run:  python app.py   (builds the index automatically on first launch)
 """
 from pathlib import Path
+import os
 import shutil
 
 import gradio as gr
@@ -89,4 +90,4 @@ with gr.Blocks(title="Course Q&A RAG") as demo:
         gr.Button("Index files").click(upload, [files, new_course], [status, course])
 
 if __name__ == "__main__":
-    demo.launch()
+    demo.launch(server_port=int(os.getenv("PORT", "7860")))
